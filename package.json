@@ -1,0 +1,29 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "this is a calculator",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lualmaca/calculator.git"
+  },
+  "keywords": [
+    "cal",
+    "calculator",
+    "calc"
+  ],
+  "author": "luis martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lualmaca/calculator/issues"
+  },
+  "homepage": "https://github.com/lualmaca/calculator#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "prompt": "^1.3.0"
+  }
+}
